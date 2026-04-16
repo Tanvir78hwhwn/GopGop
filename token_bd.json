@@ -1,7 +1,7 @@
 [
     {
-        "uid": "123",
+        "uid": "test123",
         "status": "failed",
-        "error": "Rate limited"
+        "error": "Missing tokens"
     }
 ]
